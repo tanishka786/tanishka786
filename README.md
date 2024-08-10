@@ -23,7 +23,8 @@
 ![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,npm,git,github,vscode)
 
 ### ⚙️ Github Analysis
-<p align="Center"> 
+
+<p align="left"> 
   <a href="https://github.com/tanishka786"> 
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits=true&count-private=true"/>
     <br>
@@ -32,34 +33,22 @@
   </a>
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/tanishka786"> 
   <img height="200cm" src="https://github-stats-alpha.vercel.app/api/?username=tanishka786&cc=333333&tc=000000&ic=00ffff" alt="Stats"/>
   </a>
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <img height="200cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishka786&theme=transparent" alt="Profile Summary Card"/>
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-profile-trophy.vercel.app/?username=tanishka786&theme=algolia" alt="Github Trophies"/>
 </p>
 
-
-
-<!---
-![Tan stats](https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits)
---->
-
-
-
-
-
-
-
 ### Reach me at
-![pl](https://skillicons.dev/icons?i=discord,gmail,linkedin)
+![pl](https://skillicons.dev/icons?i=discord,gmail,LinkedIn)
 
-
-//  Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻
+<p align="center"> Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻</p>
+ 
