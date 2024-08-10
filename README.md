@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning solidity
 - 💻 Proficient in HTML, CSS, and JavaScript, C++, Java, python, mongoDB.
-- 🤝 Strong teamwork and collaboration skills honed through group projects.
+- 🫱🏼‍🫲🏻 Strong teamwork and collaboration skills honed through group projects.
 - 🔧 A knack for problem-solving and a passion for tackling complex challenges.
 - 🗣️ Effective communication skills, both written and verbal.
 - 📫 How to reach me: tanishkajdas.ce@gmail.com | www.linkedin.com/in/tanishka-das-ce 
