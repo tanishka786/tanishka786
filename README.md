@@ -26,7 +26,7 @@
 
 <p align="left"> 
   <a href="https://github.com/tanishka786"> 
-    <img height="190" src="https://github-readme-stats-alpha.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits=true&count-private=true"/>
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=truet&include_all_commits=true&count-private=true&theme=transparent"/>
     <br>
     <br>
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka786&layout=compact&langs_count=9&theme=transparent"/>
