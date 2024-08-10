@@ -9,7 +9,7 @@
 - 🤝 Strong teamwork and collaboration skills honed through group projects.
 - 🔧 A knack for problem-solving and a passion for tackling complex challenges.
 - 🗣️ Effective communication skills, both written and verbal.
-- 📫 How to reach me: tanishkajdas.ce@gmail.com
+- 📫 How to reach me: tanishkajdas.ce@gmail.com | www.linkedin.com/in/tanishka-das-ce 
 
 ### ⚙️ Tech Stack
 
@@ -46,9 +46,5 @@
 <p align="left"> 
   <img src="https://github-profile-trophy.vercel.app/?username=tanishka786&theme=algolia" alt="Github Trophies"/>
 </p>
-
-### Reach me at
-![pl](https://skillicons.dev/icons?i=discord,gmail,linkedin)
-
 <p align="center"> Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻</p>
  
