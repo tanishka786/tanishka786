@@ -35,9 +35,16 @@
 ![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,netlify,npm)
 
 ### ⚙️Github stats
-<p align="center"> 
-  <a href=""> </a>
+<p align="left"> 
+  <a href="https://github.com/tanishka786"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits=true&count-private=true"/>
+       <img  src="https://github-readme-stats.vercel.app/api/tog-langs/?username=tanishka786&layout=compact&langs_count=9&theme=transparent"/>
+  </a>
 </p>
+
+
+![Tan stats](https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits)
+
 
 
 
