@@ -1,4 +1,6 @@
-### Hey there 👋 ![Tan-the-developer✌](https://github.com/tanishka786/tanishka786/blob/main/Black%20Bg.png)
+### Hey there 👋  
+
+![Tan-the-developer✌](https://github.com/tanishka786/tanishka786/blob/main/Black%20Bg.png)
 
 <!--
 **tanishka786/tanishka786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
