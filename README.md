@@ -48,7 +48,7 @@
 </p>
 
 ### Reach me at
-![pl](https://skillicons.dev/icons?i=discord,gmail,LinkedIn)
+![pl](https://skillicons.dev/icons?i=discord,gmail,linkedin)
 
 <p align="center"> Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻</p>
  
