@@ -42,9 +42,9 @@
   </a>
 </p>
 
-
+<!---
 ![Tan stats](https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits)
-
+--->
 
 
 
