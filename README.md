@@ -14,33 +14,39 @@
 ### ⚙️ Tech Stack
 
 ### </> Programming Languages
-![pl](https://skillicons.dev/icons?i=js,html,css,java,python,solidity,)
+![pl](https://skillicons.dev/icons?i=js,html,css,java,python,solidity)
 
-### Frame Works
-![pl](https://skillicons.dev/icons?i=react,nodejs)
-
-### IDE
-![pl](https://skillicons.dev/icons?i=vscode)
-
-### Version Control
-![pl](https://skillicons.dev/icons?i=git,github)
-
-### Hosting
-![pl](https://skillicons.dev/icons?i=netlify)
-
-### Databases
-![pl](https://skillicons.dev/icons?i=mongodb,mysql)
+### Frame Works, database & Hosting platform
+![pl](https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,netlify)
 
 ### Others
-![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,netlify,npm)
+![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,npm,git,github,vscode)
 
-### ⚙️Github stats
-<p align="left"> 
+### ⚙️ Github Analysis
+<p align="Center"> 
   <a href="https://github.com/tanishka786"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits=true&count-private=true"/>
-       <img  src="https://github-readme-stats.vercel.app/api/tog-langs/?username=tanishka786&layout=compact&langs_count=9&theme=transparent"/>
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits=true&count-private=true"/>
+    <br>
+    <br>
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka786&layout=compact&langs_count=9&theme=transparent"/>
   </a>
 </p>
+
+<p align="center"> 
+  <a href="https://github.com/tanishka786"> 
+  <img height="200cm" src="https://github-stats-alpha.vercel.app/api/?username=tanishka786&cc=333333&tc=000000&ic=00ffff" alt="Stats"/>
+  </a>
+</p>
+
+<p align="center"> 
+  <img height="200cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishka786&theme=transparent" alt="Profile Summary Card"/>
+</p>
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishka786&theme=algolia" alt="Github Trophies"/>
+</p>
+
+
 
 <!---
 ![Tan stats](https://github-readme-stats.vercel.app/api?username=tanishka786&show_icons=true&theme=transparent&include_all_commits)
