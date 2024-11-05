@@ -65,5 +65,10 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
+
+<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf 2024 Badge (2).png" width="100px" height="100px" />
+
+<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
+
 <p align="center"> Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻</p>
  
