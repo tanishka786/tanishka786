@@ -13,13 +13,13 @@
 ### ⚙️ Tech Stack
 
 ### </> Programming Languages
-![pl](https://skillicons.dev/icons?i=js,html,css,java,python,solidity)
+![pl](https://skillicons.dev/icons?i=js,html,css,java,python,solidity,c,cpp)
 
 ### Frame Works, database & Hosting platform
-![pl](https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,netlify)
+![pl](https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,netlify,flask,express,tailwind)
 
 ### Others
-![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,npm,git,github,vscode)
+![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,npm,git,github,gitlab,githubactions,vscode,windows,bash,figma,tensorflow,notion,yarn)
 
 ### 💻 Github Analysis
 
@@ -49,7 +49,24 @@
 </p>
 
 ### 🌐 Connect me at 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SsJmsp5g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-das-ce/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@tanishkajdas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishkajdas.ce@gmail.com) 
+
+<p align="left"> 
+   <a href="https://www.linkedin.com/in/tanishka-das-ce/"> 
+      <img height="40cm" src="https://skillicons.dev/icons?i=linkedin"/>
+   </a> &nbsp;
+
+   <a href="https://discord.gg/SsJmsp5g"> 
+      <img height="40cm" src="https://skillicons.dev/icons?i=discord"/>
+   </a> &nbsp;
+
+   <a href="https://codepen.io/@tanishkajdas"> 
+      <img height="40cm" src="https://skillicons.dev/icons?i=codepen"/>
+   </a> &nbsp;
+
+   <a href="mailto:tanishkajdas.ce@gmail.com"> 
+      <img height="40cm" src="https://skillicons.dev/icons?i=gmail"/>
+   </a>
+</p>
 
 <p align="center"> Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻</p>
 
