@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,9 +27,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=#5468FF
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=#5468FF&color_dots=#D9F0FF,#D2E2FF,#A2C3FF,#7AA1FF,#5468FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
@@ -39,4 +40,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update snake animation with Algolia theme [skip ci]"
