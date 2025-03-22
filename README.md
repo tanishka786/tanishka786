@@ -12,7 +12,38 @@
 
 ### ⚙️ Tech Stack </> 
 
-![pl](https://skillicons.dev/icons?i=c,cpp,js,html,css,java,python,solidity,react,nodejs,mongodb,mysql,netlify,flask,express,tailwind,aws,gcp,docker,kubernetes,npm,git,github,gitlab,githubactions,vscode,windows,bash,figma,tensorflow,notion,yarn,&perline=12)
+<p>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img src="https://skillicons.dev/icons?i=c"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp"/></a>
+  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html"/></a>
+  <a href="https://www.geeksforgeeks.org/css-tutorial/" target="_blank"><img src="https://skillicons.dev/icons?i=css"/></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a>
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=solidity"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a>
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+  <a href="https://app.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify"/></a>
+  <a href="https://www.geeksforgeeks.org/flask-tutorial/" target="_blank"><img src="https://skillicons.dev/icons?i=flask"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm"/></a>                  
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a>                  
+  <a href=" https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>                  
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow"/></a>
+  <a href="https://www.notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion"/></a>
+  <a href="https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable" target="_blank"><img src="https://skillicons.dev/icons?i=yarn"/></a> 
+</p>
 
 ### 💻 Github Analysis
 
