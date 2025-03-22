@@ -26,8 +26,11 @@
 <p align="left"> 
   <a href="https://github.com/tanishka786"> 
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=tanishka786&theme=algolia&hide_border=false&include_all_commits=false&count_private=false"/>
-    <br>
-    <br>
+  </a> 
+</p>
+
+<p align="left">
+   <a href="https://github.com/tanishka786">
     <img height="190" src="https://nirzak-streak-stats.vercel.app/?user=tanishka786&theme=algolia&hide_border=false"/>
   </a>
 </p>
