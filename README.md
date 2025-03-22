@@ -10,16 +10,9 @@
 - 🔧 A knack for problem-solving and a passion for tackling complex challenges.
 - 🗣️ Effective communication skills, both written and verbal. 
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack </> 
 
-### </> Programming Languages
-![pl](https://skillicons.dev/icons?i=js,html,css,java,python,solidity,c,cpp)
-
-### Frame Works, database & Hosting platform
-![pl](https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,netlify,flask,express,tailwind)
-
-### Others
-![pl](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,npm,git,github,gitlab,githubactions,vscode,windows,bash,figma,tensorflow,notion,yarn)
+![pl](https://skillicons.dev/icons?i=c,cpp,js,html,css,java,python,solidity,react,nodejs,mongodb,mysql,netlify,flask,express,tailwind,aws,gcp,docker,kubernetes,npm,git,github,gitlab,githubactions,vscode,windows,bash,figma,tensorflow,notion,yarn,&perline=12)
 
 ### 💻 Github Analysis
 
