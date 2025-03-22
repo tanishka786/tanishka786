@@ -68,6 +68,12 @@
    </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishka786/tanishka786/output/github-snake-dark.svg" />
+  <img alt="on my way!!" src="https://raw.githubusercontent.com/tanishka786/tanishka786/output/github-snake.svg" />
+</picture>
+
+
 <p align="center"> Made with Immersed love 💖 for coding by 🪄 Tan-the-developer ✌🏻</p>
 
 
