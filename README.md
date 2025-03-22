@@ -55,10 +55,6 @@
       <img height="40cm" src="https://skillicons.dev/icons?i=discord"/>
    </a> &nbsp;
 
-   <a href="https://codepen.io/@tanishkajdas"> 
-      <img height="40cm" src="https://skillicons.dev/icons?i=codepen"/>
-   </a> &nbsp;
-
    <a href="mailto:tanishkajdas.ce@gmail.com"> 
       <img height="40cm" src="https://skillicons.dev/icons?i=gmail"/>
    </a>
