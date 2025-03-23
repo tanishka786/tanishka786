@@ -22,6 +22,7 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a>
   <a href="https://soliditylang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=solidity"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a>
+  <br>
   <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a>
@@ -31,6 +32,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp"/></a>
+  <br>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm"/></a>                  
@@ -40,6 +42,7 @@
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma"/></a>
+  <br>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow"/></a>
   <a href="https://www.notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion"/></a>
   <a href="https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable" target="_blank"><img src="https://skillicons.dev/icons?i=yarn"/></a> 
