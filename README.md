@@ -46,6 +46,7 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow"/></a>
   <a href="https://www.notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion"/></a>
   <a href="https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable" target="_blank"><img src="https://skillicons.dev/icons?i=yarn"/></a> 
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=md"/></a>
 </p>
 
 ### 💻 Github Analysis
