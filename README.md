@@ -2,13 +2,17 @@
 
 ![Tan-the-developer✌](https://github.com/tanishka786/tanishka786/blob/main/Black%20Bg.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=00ffff&size=24&width=600&lines=👩🏻‍💻BuddingSoftwareEngineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=00ffff&size=24&width=600&lines=👩🏻‍💻Computer%20Engineer)
 
-- 🌱 I’m currently developing web projects to refine my skills.
-- 💻 Proficient in HTML, CSS, and JavaScript, C++, Java, python, mongoDB.
-- 🫱🏼‍🫲🏻 Strong teamwork and collaboration skills honed through group projects.
-- 🔧 A knack for problem-solving and a passion for tackling complex challenges.
-- 🗣️ Effective communication skills, both written and verbal. 
+### 🚀 About Me
+- 🌱 Currently working on improving my **soft skills** while expanding my knowledge in **AI & Machine Learning**.
+- 💻 Developed multiple web and software projects, gaining hands-on experience in building real-world applications.
+- 👨‍💻 Proficient in **HTML, CSS, JavaScript, C++, Java, Python, and MongoDB**.
+- 🤖 Passionate about learning **AI/ML** concepts and applying them to innovative solutions.
+- 🫱🏼‍🫲🏻 Strong team player with hands-on experience collaborating on academic and technical projects.
+- 🔧 Passionate about problem-solving and solving complex real-world challenges.
+- 🗣️ Effective communicator with strong written and verbal communication skills.
+- 📚 Always eager to learn new technologies and continuously enhance my technical expertise.
 
 ### ⚙️ Tech Stack </> 
 
@@ -78,21 +82,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tanishka786&theme=algolia&hide_border=false" alt="Github Trophies"/>
 </p>
 
-### 🌐 Connect me at 
-
+<!--
+### 🌐 Connect with me at 
 <p align="left"> 
    <a href="https://www.linkedin.com/in/tanishka-das-ce/"> 
       <img height="40cm" src="https://skillicons.dev/icons?i=linkedin"/>
    </a> &nbsp;
-
    <a href="https://discord.gg/SsJmsp5g"> 
       <img height="40cm" src="https://skillicons.dev/icons?i=discord"/>
    </a> &nbsp;
-
    <a href="mailto:tanishkajdas.ce@gmail.com"> 
       <img height="40cm" src="https://skillicons.dev/icons?i=gmail"/>
    </a>
 </p>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishka786/tanishka786/output/github-snake-dark.svg" />
